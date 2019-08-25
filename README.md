@@ -21,3 +21,6 @@ To run the script:
 By default, it will make a spreadsheet with 64 cells on the image's longest side. Use the `--size` parameter to change this. 256 is probably the highest reasonable number.
 
 If you wish to limit the number of colors in the spreadsheet (perhaps for cross-stitching purposes?) use `--quantize` and a number between 2 and 255. You could use 1, I guess, but that will make a solid blob.
+
+## Sample output
+![image](https://user-images.githubusercontent.com/157139/63650437-92ee3680-c710-11e9-8b01-fa6a4d9a534b.png)
